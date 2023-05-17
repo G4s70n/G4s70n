@@ -1,4 +1,4 @@
-![Imagen GIF](https://i.postimg.cc/66g22FLd/profile-1.png)
+![Imagen GIF](https://i.postimg.cc/xdxQcJNt/profile-2.png)
 
 
 <!--
