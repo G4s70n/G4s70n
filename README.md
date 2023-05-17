@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Imagen GIF](https://www.slideteam.net/media/catalog/product/cache/1280x720/m/a/male_user_profile_with_details_colored_icon_in_powerpoint_pptx_png_and_editable_eps_format_slide01.jpg)
+
+
 <!--
 **G4s70n/G4s70n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
