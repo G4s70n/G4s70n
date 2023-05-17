@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Imagen GIF](https://i.postimg.cc/Zq4sqKdg/prueba.png)
+![Imagen GIF](https://i.postimg.cc/Zq4sqKdg/prueba.png+)
 
 
 <!--
