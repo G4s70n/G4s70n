@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Imagen GIF](https://www.slideteam.net/media/catalog/product/cache/1280x720/m/a/male_user_profile_with_details_colored_icon_in_powerpoint_pptx_png_and_editable_eps_format_slide01.jpg)
+![Imagen GIF](https://i.postimg.cc/Zq4sqKdg/prueba.png)
 
 
 <!--
