@@ -18,7 +18,7 @@
 
 <div align="center">
 <h2>Contáctame</h2>  
-<a href="https://www.linkedin.com/in/gaston-nieto">
+<a href="https://www.linkedin.com/in/gast%C3%B3n-nieto/">
   <img width="50px" src="https://i.postimg.cc/BQVDsTGM/icon-link.png" alt="LinkedIn">
 </a>
 
