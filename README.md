@@ -1,5 +1,5 @@
 [![profile-github.png](https://i.postimg.cc/m22vJ3Xk/profile-github.png)](https://postimg.cc/23M9BWfN)
-[![](https://visitcount.itsvg.in/api?id=g4s70n&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
 <br>
 <br>
 <br>
@@ -24,3 +24,6 @@
 </a>
 
 </div>
+
+
+[![](https://visitcount.itsvg.in/api?id=G4s70n&label=Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
