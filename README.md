@@ -3,7 +3,7 @@
 <br>
 <br>
 <br>
-# Proyectos
+<h1>Proyectos</h1>
 
 <h2 style="font-family: cursive;"><b><i> Poke App</i></b></h2>
 <p>Es una App que permite obtener información sobre Pokémons y crearlos de forma personalizada con IA.</p>
