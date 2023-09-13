@@ -6,7 +6,7 @@
 <h1>Proyectos</h1>
 
 <h2 style="font-family: cursive;"><b><i>Grano de Oro</i></b></h2>
-<p>E-commerce de venta de café que cuenta con una plataforma para los usuarios y otra para el admin, ambas comunidacas a un back-end.</p>
+<p>E-commerce de venta de café que cuenta con una plataforma para los usuarios y otra para el admin, ambas comunicadas a un back-end. Desarrollado en equipo.</p>
 <br>
 
 <span>    </span> 
