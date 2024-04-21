@@ -40,4 +40,3 @@
 [![](https://visitcount.itsvg.in/api?id=G4s70n&label=Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 
-<img src="https://iplogger.co/1lppc.jpg" alt="IP Logger" width="1" height="1">
