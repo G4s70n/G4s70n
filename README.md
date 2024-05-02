@@ -9,6 +9,17 @@
 <p>E-commerce de venta de café que cuenta con una plataforma para los usuarios y otra para el admin, ambas comunicadas a un back-end. Desarrollado en equipo.</p>
 <br>
 
+<p align="center">
+  <img width='250' src= "https://github.com/G4s70n/G4s70n/assets/93175088/bbf63526-808a-41d4-8494-3cf67765d513"></img>
+  <span>    </span> 
+  <img width='250' src= "https://github.com/G4s70n/G4s70n/assets/93175088/52658fb8-354e-4f1d-8046-64d4fe0fe81e"></img>
+  <span>    </span> 
+  <img width='250' src= "https://github.com/G4s70n/G4s70n/assets/93175088/bcbf4e6e-5044-424a-8b33-ce4d89f80ceb"></img>
+</p>
+
+<br>
+<br>
+
 <span>    </span> 
 <a href="https://github.com/ProyectoFinalHenry" target="_blank"><img width='50' src='https://i.postimg.cc/rmJMj6Wh/Proyecto-nuevo.png'/></a><span>            </span>  <a href="https://granodeoro.vercel.app/" target="_blank"><img width='50' src='https://i.postimg.cc/tT15b6tW/Proyecto-nuevo.png'/></a> 
 <h3><span>    </span>Repo<span>               </span>Deploy</h3> 
@@ -49,7 +60,5 @@
 
 
 [![](https://visitcount.itsvg.in/api?id=G4s70n&label=Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
-
-
 
 
