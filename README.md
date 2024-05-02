@@ -10,7 +10,8 @@
 <br>
 
 
-https://github.com/G4s70n/G4s70n/assets/93175088/c18fad36-7aaa-408d-afe5-72a91b96e79c
+https://github.com/G4s70n/G4s70n/assets/93175088/9f394949-15d3-4f1d-9157-66c825ae6685
+
 
 <br>
 <br>
