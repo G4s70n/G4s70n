@@ -20,11 +20,11 @@
 <p>Es una App que permite obtener información sobre Pokémons y crearlos de forma personalizada con IA.</p>
 <br>
 <p align="center">
-  <img width='300' src= "https://github.com/G4s70n/G4s70n/assets/93175088/41fa4829-5250-4f1d-8914-dae2e3038931"></img>
+  <img width='250' src= "https://github.com/G4s70n/G4s70n/assets/93175088/41fa4829-5250-4f1d-8914-dae2e3038931"></img>
   <span>    </span> 
-  <img width='300' src= "https://github.com/G4s70n/G4s70n/assets/93175088/852b1ff4-fad6-470a-a29b-233e81f6f605"></img>
+  <img width='250' src= "https://github.com/G4s70n/G4s70n/assets/93175088/852b1ff4-fad6-470a-a29b-233e81f6f605"></img>
   <span>    </span> 
-  <img width='300' src= "https://github.com/G4s70n/G4s70n/assets/93175088/aee5abbd-96ec-459c-b92a-2824905263cc"></img>
+  <img width='250' src= "https://github.com/G4s70n/G4s70n/assets/93175088/aee5abbd-96ec-459c-b92a-2824905263cc"></img>
 </p>
 
 
