@@ -5,6 +5,25 @@
 <br>
 <h1>Proyectos</h1>
 
+<h2 style="font-family: cursive;"><b><i>Password Hunter</i></b></h2>
+<p>Es una aplicación que vulnera cuentas de Instagram y Facebook. Mediante web scraping, recolecta información pública en la web sobre cada usuario y con estos datos genera contraseñas únicas para cada user, siguiendo un patrón. Luego, itera cada cuenta probando las contraseñas generadas hasta que logra acceder. Implementa un sistema de aviso por email a los usuarios cuyas cuentas fueron vulneradas, para alertarlos de posibles hackeos. </p>
+<br>
+
+
+https://github.com/G4s70n/G4s70n/assets/93175088/c18fad36-7aaa-408d-afe5-72a91b96e79c
+
+<br>
+<br>
+
+<span>    </span> 
+<span>    </span> <a href="https://github.com/ProyectoFinalHenry" target="_blank"><img width='50' src='https://i.postimg.cc/rmJMj6Wh/Proyecto-nuevo.png'/></a></a> 
+<h3></span>Repo privado<span>
+
+<br>
+<br>
+<br>
+
+
 <h2 style="font-family: cursive;"><b><i>Grano de Oro</i></b></h2>
 <p>E-commerce de venta de café que cuenta con una plataforma para los usuarios y otra para el admin, ambas comunicadas a un back-end. Desarrollado en equipo.</p>
 <br>
