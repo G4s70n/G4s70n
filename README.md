@@ -17,7 +17,7 @@ https://github.com/G4s70n/G4s70n/assets/93175088/9f394949-15d3-4f1d-9157-66c825a
 <br>
 
 <span>    </span> 
-<span>    </span> <a href="https://github.com/ProyectoFinalHenry" target="_blank"><img width='50' src='https://i.postimg.cc/rmJMj6Wh/Proyecto-nuevo.png'/></a></a> 
+<span>    </span> <img width='50' src='https://i.postimg.cc/rmJMj6Wh/Proyecto-nuevo.png'/> 
 <h3></span>Repo privado<span>
 
 <br>
