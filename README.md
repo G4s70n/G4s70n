@@ -41,7 +41,7 @@ https://github.com/G4s70n/G4s70n/assets/93175088/911a41ba-7f2e-4013-933a-4eb716f
 
 <span>    </span> 
 <a href="https://github.com/ProyectoFinalHenry" target="_blank"><img width='50' src='https://i.postimg.cc/rmJMj6Wh/Proyecto-nuevo.png'/></a> <span>                    </span>  <a href="https://granodeoro.vercel.app/" target="_blank"><img width='50' src='https://i.postimg.cc/tT15b6tW/Proyecto-nuevo.png'/></a> 
-<h3><span>    </span>Repo<span>               </span>Deploy</h3> 
+<h3><span>    </span>Repo<span>              </span>Deploy</h3> 
 
 <br>
 <br>
@@ -63,7 +63,7 @@ https://github.com/G4s70n/G4s70n/assets/93175088/911a41ba-7f2e-4013-933a-4eb716f
 
 <span>    </span> 
 <a href="https://github.com/G4s70n/pokemon-app" target="_blank"><img width='50' src='https://i.postimg.cc/rmJMj6Wh/Proyecto-nuevo.png'/></a> <span>                    </span>  <a href="https://g4s70n.github.io/poke" target="_blank"><img width='50' src='https://i.postimg.cc/tT15b6tW/Proyecto-nuevo.png'/></a>
-<h3><span>    </span>Repo<span>               </span>Deploy</h3>
+<h3><span>    </span>Repo<span>              </span>Deploy</h3>
 
 <br>
 <br>
