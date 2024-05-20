@@ -5,7 +5,7 @@
 <br>
 <h1>Proyectos</h1>
 
-<h2 style="font-family: cursive;"><b><i>Password Hunter</i></b></h2>
+<h1 style="font-family: cursive;"><b><i> Password Hunter</i></b></h1>
 <p>Es una aplicación que vulnera cuentas de Instagram y Facebook. Mediante web scraping, recolecta información pública en la web sobre cada usuario y con estos datos genera contraseñas únicas para cada user, siguiendo un patrón. Luego, itera cada cuenta probando las contraseñas generadas hasta que logra acceder. Implementa un sistema de aviso por email a los usuarios cuyas cuentas fueron vulneradas, para alertarlos de posibles hackeos. </p>
 <br>
 
