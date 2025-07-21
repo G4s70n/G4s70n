@@ -1,4 +1,3 @@
-[![profile-github.png](https://i.postimg.cc/4xFcwwjN/Plantilla-Github-Profile.png)](https://postimg.cc/23M9BWfN)
 
 <br>
 <br>
